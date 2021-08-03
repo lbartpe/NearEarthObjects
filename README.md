@@ -1,7 +1,7 @@
 # Explore Close Approaches of Near-Earth Objects
 
 This program utilizes the command-line interface (CLI) to search for and
-explore close approaches of near-Earth objects (NEOs), using data from
+explore close approaches of near-Earth objects (NEOs) using data from
 NASA/JPL's Center for Near Earth Object Studies.
 
 ## Overview
